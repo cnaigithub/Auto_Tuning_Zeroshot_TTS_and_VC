@@ -1,6 +1,6 @@
 # Auto_Tuning_Zeroshot_TTS_and_VC
 PyTorch implementation of our [paper](https://arxiv.org/abs/2305.16699) "Automatic Tuning of Loss Trade-offs without Hyper-parameter Search in End-to-End Zero-Shot Speech Synthesis", accepted at INTERSPEECH 2023.\
-[Demo page](https://cnaigithub.github.io/SpeechDewarping/)
+[Demo page](https://cnaigithub.github.io/Auto_Tuning_Zeroshot_TTS_and_VC/)
 
 
 > **Abstract:** 
