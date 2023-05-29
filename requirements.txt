@@ -1,0 +1,13 @@
+Cython==0.29.21
+librosa==0.8.0
+matplotlib==3.3.1
+numpy==1.18.5
+phonemizer==2.2.1
+scipy==1.5.2
+tensorboard==2.3.0
+Unidecode==1.1.1
+protobuf==3.19.6
+pytorch_revgrad==0.2.0
+torch==1.13.1
+tqdm==4.65.0
+pykakasi==2.2.1
